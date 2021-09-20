@@ -1,0 +1,10 @@
+Alden,32000
+Alden,17000
+Alden,6000
+Alden,3000
+Alden,2000
+Alden,1000
+Alden,800
+Alden,400
+Alden,200
+Alden,100
